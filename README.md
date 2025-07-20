@@ -1,5 +1,5 @@
 # LeadPipe
-My attempt at making a 3D renderer utilizing OpenGL.
+My attempt at making a 3D renderer utilizing OpenGL & C/C++.
 
 Designed with interactivity/games in mind.
 
